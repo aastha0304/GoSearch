@@ -1,0 +1,20 @@
+{
+  "engines": ["google", "duckduckgo", "twitter"],
+  "urls": {
+    "google": "https://www.googleapis.com/customsearch/v1",
+    "twitter": "https://api.twitter.com/1.1/search/tweets.json",
+    "duckduckgo": "http://api.duckduckgo.com"
+  },
+  "tokens":{
+    "google": {
+      "key": "AIzaSyB48JM2FDC6_3kEEjl6Tu6yFimMXrnidxc",
+      "cx": "017479112013739038192:86mtd0o82uk"
+    },
+    "twitter": {
+      "consumer_key": "59K0qO6dpkFeZZh5RTaIcaxkS",
+      "consumer_secret": "edhghcnUQYDW8XdfevmOhSrG7hYuDDD03tInzuX3X1OO5NLr6m",
+      "access_token": "4110944056-00aS5ZxLdGriAYQce1WMhLlA39HP2JHhTGjHDIn",
+      "access_token_secret": "KVUAqs5akCRgFRkm9HMmglnXqfdBZw40d4zNWtWNhGhcG"
+    }
+  }
+}
